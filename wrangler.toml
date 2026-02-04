@@ -1,0 +1,6 @@
+name = "min"
+main = "index.js"
+compatibility_date = "2024-12-01"
+
+# Uncomment after login if needed
+account_id = "53ca123b4cfdcece00093fed50719da3"
